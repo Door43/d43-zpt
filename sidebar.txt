@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zpt:home|Door43 (zpt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zpt|d43-zpt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zpt/archive/master.zip|d43-zpt.zip]]
+
+**Recent Changes**
+{{changes>ns = zpt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zpt|Ethnologue data]]
+
